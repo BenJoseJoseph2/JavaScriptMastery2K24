@@ -19,4 +19,4 @@ let bool = true ;
 let valueInNumber3 = Number(bool);
 console.log(valueInNumber3);
 
-//  true -> 1 false -> 0  null-> 0
+//  true -> 1 false -> 0  null-> 0 " " -> false  "ben" -> true
